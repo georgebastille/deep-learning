@@ -1,0 +1,5 @@
+Add python dependencies to floyd_requirements.txt
+floyd init {project-name}
+floyd run --mode jupyter --env tensorflow-1.0 --gpu
+floyd stop {ID}
+floyd output {ID}

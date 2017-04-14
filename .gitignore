@@ -5,3 +5,8 @@ embeddings/data/
 embeddings/text8.zip
 
 .ipynb_checkpoints/
+*.p
+__pycache__
+*.gz
+save.*
+cifar-10-batches-py
